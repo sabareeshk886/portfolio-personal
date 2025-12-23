@@ -7,7 +7,7 @@ export function About() {
         </h2>
         <div className="mt-4 space-y-4 leading-relaxed text-muted-foreground">
           <p>
-            Hi, I’m Sabareesh K, a Data Engineer and Community Builder passionate about bridging technology and people.
+            Hi, I’m Sabareesh K, a Data Engineer and Operations Lead passionate about bridging technology and people.
             From my very first year of college, I immersed myself in communities like IEEE, NSS, Hack Club, and
             Tinkerhub, where I discovered the power of collaboration and leadership.
           </p>

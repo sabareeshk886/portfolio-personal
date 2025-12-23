@@ -13,7 +13,7 @@ export function Hero() {
     >
       <div>
         <h1 id="hero-title" className="text-3xl md:text-5xl font-semibold text-pretty">
-          {"Hi, I’m Sabareesh 👋"} <span className="text-primary">Data Engineer</span> {"& Community Builder"}
+          {"Hi, I’m Sabareesh 👋"} <span className="text-primary">Data Engineer</span> {"& Operations Lead"}
         </h1>
         <p className="mt-4 text-muted-foreground leading-relaxed text-pretty">
           Passionate about building with data and empowering communities through technology & leadership.
