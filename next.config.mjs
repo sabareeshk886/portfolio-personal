@@ -2,7 +2,6 @@
 const nextConfig = {
   output: 'export',
   basePath: '/portfolio-personal',
-  assetPrefix: '/portfolio-personal',
   eslint: {
     ignoreDuringBuilds: true,
   },

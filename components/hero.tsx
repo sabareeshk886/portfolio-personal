@@ -43,7 +43,7 @@ export function Hero() {
 
       <div className="relative mx-auto">
         <Image
-          src={"/images/personal.jpg"}
+          src={"/portfolio-personal/images/personal.jpg"}
           alt="Portrait of Sabareesh K"
           width={320}
           height={320}
