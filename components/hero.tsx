@@ -21,7 +21,7 @@ export function Hero() {
 
         <div className="mt-6 flex flex-wrap items-center gap-3">
           <Button asChild>
-            <a href="/Sabareesh Resume .docx-1.pdf" download="Sabareesh Resume .docx-1.pdf">
+            <a href="/portfolio-personal/Sabareesh Resume .docx-1.pdf" download="Sabareesh Resume .docx-1.pdf">
               <Download className="mr-2 size-4" />
               Download Resume
             </a>

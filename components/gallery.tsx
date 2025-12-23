@@ -8,8 +8,8 @@ export function Gallery() {
         <p className="mt-2 text-muted-foreground">A few moments from events and hackathons.</p>
 
         <div className="mt-6 grid grid-cols-2 md:grid-cols-3 gap-4">
-          <img src="/SaveClip.App_319538829_537085141662017_2012131291797034537_n.jpg" alt="Event moment 1" className="rounded-md border" />
-          <img src="/SaveClip.App_327275655_864573264655487_6342149333143319464_n.jpg" alt="Event moment 2" className="rounded-md border" />
+          <img src="/portfolio-personal/SaveClip.App_319538829_537085141662017_2012131291797034537_n.jpg" alt="Event moment 1" className="rounded-md border" />
+          <img src="/portfolio-personal/SaveClip.App_327275655_864573264655487_6342149333143319464_n.jpg" alt="Event moment 2" className="rounded-md border" />
 
         </div>
       </div>
